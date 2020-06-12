@@ -8,16 +8,26 @@ Mail: [work@surminus.com](mailto:work@surminus.com)
 
 Twitter: [@surminus](https://twitter.com/surminus)
 
-## Technical Compentencies
+## About Me
 
-Linux | AWS | Docker | Terraform
---------------------------------
-Ruby | Go | Bash | Networking
------------------------------
-Git | Configuration Management (Chef & Puppet)
-----------------------------------------------
-Continuous Integration Tools | Databases
-----------------------------------------
+I'm an experienced (>10 years) Operations Engineer with a focus on automation
+and tooling. Most of my career has been spent working with Linux systems, and I
+cut my teeth working in customer facing support.
+
+I enjoy writing tools in Ruby, Go and occasionally Bash. I've worked with
+Continuous Integration and Deployment systems, and have a strong interest in
+automating away problems with code.
+
+Much of my work in the last few years has been within an AWS environment, and
+feel comfortable working within the huge Amazon ecosystem and working with the
+AWS SDK.
+
+I've worked with Terraform for several years, and more recently spent time
+working with containers, specifically with Amazon ECS.
+
+In the future, I'd love to work on platforms with either Kubernetes or
+serverless technologies. I'm interested in expanding my horizons in terms of
+platform scale, and continuing to improve my software development skillset.
 
 ## Site Reliability Engineer (March 2018 - Present)
 
