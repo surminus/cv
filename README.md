@@ -18,7 +18,7 @@ I enjoy writing tools in Ruby, Go and occasionally Bash. I've worked with
 Continuous Integration and Deployment systems, and have a strong interest in
 automating away problems with code.
 
-Much of my work in the last few years has been within an AWS environment, and
+Much of my work in the last few years has been within an AWS environment, and I
 feel comfortable working within the huge Amazon ecosystem and working with the
 AWS SDK.
 
