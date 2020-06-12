@@ -31,7 +31,7 @@ platform scale, and continuing to improve my software development skillset.
 
 ## Site Reliability Engineer (March 2018 - Present)
 
-Where: FutureLearn](https://www.futurelearn.com)
+Where: [FutureLearn](https://www.futurelearn.com)
 
 As the sole SRE at FutureLearn, my role is to engage with Software Engineers to
 improve the development workflow, CI and deployment methods and improve the
