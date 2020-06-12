@@ -59,6 +59,8 @@ Some projects I worked on include:
   18.04).
 * Lead the fundamental work to modernise the platform with a migration from EC2
   based deployments to Amazon ECS, with a focus on scalability and simplicity
+* Scaled the platform to handle a huge spike in traffic during COVID19, going
+  from ~200 req/s to ~600 req/s
 
 ## Senior Web Operations Engineer (January 2017 - March 2018)
 
