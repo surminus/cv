@@ -117,12 +117,3 @@ Where: [Pulsant](https://www.pulsant.com/), formerly [DediPower Managed Hosting]
   datacentres, which included the initial power cabling, air conditioning
   implentation, networking, and full rack placement. Probably still the best
   experience of my career!
-
-## Personal
-
-2:1 BA Media with Cultural Theory at [Southampton Solent University](https://www.solent.ac.uk/)
-
-Outside work, I’m a big fan of films, and so like to go to the cinema when I
-can, and enjoy attending London Film Festival. I also enjoy music and gigs,
-fashion, good food, video games and most importantly, spending time with my
-cat, Bella.
