@@ -10,114 +10,110 @@ Twitter: [@surminus](https://twitter.com/surminus)
 
 ## About Me
 
-I'm an experienced (>10 years) Operations Engineer with a focus on automation
-and tooling. Most of my career has been spent working with Linux systems, and I
-cut my teeth working in customer facing support.
+I’m an experienced operations engineer with a focus on automation and tooling.
+Most of my career has been spent working with Linux systems, and I cut my teeth
+working in customer facing support.
 
-I enjoy writing tools in Ruby, Go and occasionally Bash. I've worked with
-Continuous Integration (CI) and Deployment systems, and have a strong interest in
-automating away problems with code.
+I enjoy writing tools in Ruby, Go, and occasionally Bash. I've worked with
+continuous integration (CI) and deployment systems, and have a strong interest
+in using automation to solve problems.
 
-Much of my work in the last few years has been within an AWS environment, and I
-feel comfortable working within the huge Amazon ecosystem and working with the
-AWS SDK.
+Much of my work in the last few years has been in an AWS environment. I feel
+comfortable working within the huge Amazon ecosystem and using the AWS SDK.
 
-I've worked with Terraform for several years, and more recently spent time
-working with containers, specifically with Amazon ECS.
+I have several years’ experience of Terraform, and recently spent time working
+with containers, specifically with Amazon ECS.
 
-In the future, I'd love to work on platforms with either Kubernetes or
-serverless technologies. I'm interested in expanding my horizons in terms of
+In the future, I’d love to work on platforms with either Kubernetes or
+serverless technologies. I’m interested in expanding my horizons in terms of
 platform scale, and continuing to improve my software development skillset.
 
-## Site Reliability Engineer (March 2018 - Present)
+## March 2018–present: Site Reliability Engineer for [FutureLearn](https://www.futurelearn.com)
 
-Where: [FutureLearn](https://www.futurelearn.com)
+As the sole SRE at FutureLearn, I am responsible for improving the development
+workflow, the CI and deployment methods, and the core infrastructure of the
+site.
 
-As the sole SRE at FutureLearn, my role is to improve the development workflow,
-CI and deployment methods and improve the core infrastructure of the site and
-processes around it.
+Achievements in this role:
 
-A large part of my role is to ensure Software Engineers, Technical Leads and
-Technical Architects are able to support and improve the platform without me.
-As part of this, I give regular technical lightning talks and interactive
-workshops.
+  * Gave regular technical lightning talks and interactive workshops aimed at
+    ensuring that software engineers, technical leads, and technical architects
+    are also able to support and improve the platform.
+  * Sped up the overall build time for the main application by decreasing test
+    times from ~15m to ~5m, greatly reducing the development feedback loop.
+  * Built, configured, and migrated to a new CI system to replace the out-of-date
+    system previously in use.
+  * Unified all infrastructure code into Terraform and replaced manual
+    provisioning tasks with automated instance bootstrapping. This saved
+    operational support cost and reduced the complexity and number of tools
+    involved in making changes to the stack.
+  * Wrote a command-line tool in Go for developers to ease deployments and allow
+    working with SSH, AWS, CI, Datadog, Docker, and more.
+  * Upgraded the servers from Ubuntu 14.04 to Ubuntu 18.04.
+  * Modernised the platform by migrating from EC2 based deployments to Amazon
+    ECS, focusing on scalability and simplicity while balancing the need for
+    lower cost of ownership by moving to higher value managed services.
+  * Scaled the platform to handle an unexpected spike in traffic during COVID-19,
+    going from ~200 req/s to ~600 req/s.
 
-Some projects I have worked on include:
+## January 2017–March 2018: Senior Web Operations Engineer for [the Government Digital Service](https://gds.blog.gov.uk/)
 
-* CI project to speed up the overall build time for the main application,
-  reducing test times from ~15m to ~5m, which greatly reduced the development
-  feedback loop
-* Built and configured a CI system to replace the out-of-date CI system
-  currently in use and organised migration over.
-* Unified all infrastructure code into Terraform, replacing manual provisioning
-  tasks with automated instance bootstrapping which saved operational support
-  cost and reduced the complexity and number of tools involved in making
-  changes to the stack
-* Wrote a command-line tool in Go for developers to ease deployments and
-  work with SSH, AWS, CI, Datadog, Docker and more
-* Operating system upgrade for servers (from Ubuntu 14.04 to Ubuntu
-  18.04).
-* Fundamental work to modernise the platform with a migration from EC2 based
-  deployments to Amazon ECS, with a focus on scalability and simplicity while
-  balancing the need for lower cost of ownership by moving to higher value
-  managed services
-* Scaled the platform to handle an unexpected spike in traffic during COVID19,
-  going from ~200 req/s to ~600 req/s
+As technical lead for GOV.UK Infrastructure, I led a team of web operations
+engineers and software engineers, and worked alongside the delivery and product
+managers in moving GOV.UK toward a modern infrastructure. GOV.UK is made up of
+over 50 microservices, mostly using Ruby on Rails, and the platform includes
+MySQL, PostgreSQL, MongoDB, Elasticsearch, Jenkins (deployment and CI),
+Varnish, NGINX, and Redis. It is a critical national resource, and so it is
+essential that the general public are able to reliably access content published
+on the site.
 
-## Senior Web Operations Engineer (January 2017 - March 2018)
+Achievements in this role:
 
-Where: [Government Digital Service](https://gds.blog.gov.uk/)
+  * Enabled software engineers to deploy code as quickly and safely as possible
+    on the current platform, while maintaining and improving the infrastructure
+    and increasing automation and self-healing. This allowed my team to
+    concentrate on improvements rather than maintenance.
+  * Collaborated with other technical leads, delivery managers, and product
+    managers to ensure we were targeting the right goals, and provided guidance
+    and advice based on my experience.
+  * Worked with technical architects to provide the vision for the future of the
+    platform, which included highly available, ephemeral, and dynamic
+    infrastructure and a transition from self-hosted to cloud native services.
 
-As Technical Lead for GOV.UK Infrastructure, I led a team of Web Ops Engineers
-and Software Engineers, and worked alongside the Delivery and Product Managers in
-moving GOV.UK toward a modern infrastructure, by helping to plan and organise
-work within the team.
+## May 2014–January 2017: Web Operations Engineer for [the Government Digital Service](https://gds.blog.gov.uk/)
 
-In my technical role, I balanced enabling Software Engineers to deploy code as
-quickly and safely as possible on the current platform, with maintaining and
-improving the infrastructure, and increasing automation and self-healing so
-that everyone could concentrate on improvements rather than maintenance.
+This position involved maintaining and supporting the ongoing needs of the
+evolving GOV.UK infrastructure. As part of this, I provided out-of-hours and
+in-office second-line support.
 
-GOV.UK is critical national infrastructure, and it was vital our users, the UK
-taxpayer, were able to reliably access content published on the site.
+Achievements in this role:
 
-I worked with other Technical Leads, Delivery Managers and Product Managers to
-ensure we were working toward the right goals, and provided guidance and advice
-based upon my experience. I also worked with Technical Architects to provide
-the vision for the future of the platform, which included highly available,
-ephemeral and dynamic infrastructure and a transition from self-hosted to cloud
-native services.
+  * Worked in a multi-disciplinary team, responding to both technical and
+    business needs.
+  * Made substantial contributions and improvements to our Puppet code.
+  * Planned and contributed to a number of improvements to functions such as
+    monitoring, logging, CI, deployment, backups, and disaster recovery.
 
-## Web Operations Engineer (May 2014 - January 2017)
+## June 2008–May 2014: Linux Systems Administrator for
+[Pulsant](https://www.pulsant.com) (formerly [DediPower Managed
+Hosting](https://www.theregister.com/2011/10/04/lumison_acquires_dedipower/))
 
-Where: [Government Digital Service](https://gds.blog.gov.uk/)
+I joined DediPower as an intern on work experience, and was then hired full
+time as part of the systems administration team, working with customers, other
+members of the support team, and other parts of the business including the
+networking, sales, datacentre, and provisioning teams. Our services were
+primarily Linux-based, but we also supported a wide range of systems including
+Windows, VMWare, Cisco firewalls, and server hardware.
 
-* Worked in a multi-disciplinary team, responding to both technical and business needs
-* Maintained and supported the ongoing needs of the evolving infrastructure
-* Heavily involved in contributing and improving Puppet code
-* Part of out-of-hours and in-office 2nd Line support
-* I engaged with and learnt the platform that runs GOV.UK, and planned and
-  contributed to a number of improvements to functions such as monitoring,
-  logging, CI, deployment, backups and DR.  GOV.UK is made up of over 50
-  microservices, mostly using Ruby on Rails, and the platform includes MySQL,
-  PostgreSQL, MongoDB, Elasticsearch, Jenkins (Deployment and CI), Varnish,
-  NGINX, Redis and a number of other technologies
+Achievements in this role:
 
-## Linux Systems Administrator (June 2008 - May 2014)
-
-Where: [Pulsant](https://www.pulsant.com/), formerly [DediPower Managed Hosting](https://www.theregister.com/2011/10/04/lumison_acquires_dedipower/)
-
-* Supported all customers as part of the 2nd, and then 3rd Line support team
-  providing extensive on-call coverage and support, often responding to and
-  fixing issues from customers we’d had very little experience with previously,
-  along with being a point of contact for larger and more complex systems
-* Provided technical guidance and ensured efficient knowledge sharing with new
-  hires during a period of high growth (from a dozen to over 60 people)
-* Primarily Linux based, we also had to provide support to a wide range of
-  systems including Windows, VMWare, Cisco firewalls and server hardware
-* Worked with customers, other members of the support team, and other parts of
-  the business including networking, sales, datacentre and provisioning teams
-* As a junior, did long-term work experience in building one of our
-  datacentres, which included the initial power cabling, air conditioning
-  implentation, networking, and full rack placement. Probably still the best
-  experience of my career!
+  * Worked my way up from the lowest to the highest level of support.
+  * Supported all customers with extensive on-call coverage, often responding to
+    and fixing issues from customers we’d had very little experience with
+    previously, along with being a point of contact for larger and more complex
+    systems.
+  * Provided technical guidance and ensured efficient knowledge sharing with new
+    hires during a period of rapid growth from a dozen to over 60 people.
+  * As an intern, helped to build one of our datacentres, including the initial
+    power cabling, air conditioning implementation, networking, and full rack
+    placement.
