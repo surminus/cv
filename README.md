@@ -6,7 +6,7 @@ GitHub: [surminus](https://github.com/surminus)
 
 Mail: [work@surminus.com](mailto:work@surminus.com)
 
-Twitter: [@surminus](https://twitter.com/surminus)
+Twitter: [\@surminus](https://twitter.com/surminus)
 
 ## About Me
 
