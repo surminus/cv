@@ -28,9 +28,13 @@ In the future, I’d love to work on platforms with either Kubernetes or
 serverless technologies. I’m interested in expanding my horizons in terms of
 platform scale, and continuing to improve my software development skillset.
 
-## March 2018–present: Site Reliability Engineer for [FutureLearn](https://www.futurelearn.com)
+## July 2021-present: Systems Development Engineer for [Amazon Web Services](https://aws.amazon.com/)
 
-As the sole SRE at FutureLearn, I am responsible for improving the development
+Working in the first UK engineering team.
+
+## March 2018–June 2021: Site Reliability Engineer for [FutureLearn](https://www.futurelearn.com)
+
+As the sole SRE at FutureLearn, I was responsible for improving the development
 workflow, the CI and deployment methods, and the core infrastructure of the
 site.
 
