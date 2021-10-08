@@ -98,9 +98,7 @@ Achievements in this role:
   * Planned and contributed to a number of improvements to functions such as
     monitoring, logging, CI, deployment, backups, and disaster recovery.
 
-## June 2008–May 2014: Linux Systems Administrator for
-[Pulsant](https://www.pulsant.com) (formerly [DediPower Managed
-Hosting](https://www.theregister.com/2011/10/04/lumison_acquires_dedipower/))
+## June 2008–May 2014: Linux Systems Administrator for [Pulsant](https://www.pulsant.com) (formerly [DediPower Managed Hosting](https://www.theregister.com/2011/10/04/lumison_acquires_dedipower/))
 
 I joined DediPower as an intern on work experience, and was then hired full
 time as part of the systems administration team, working with customers, other
