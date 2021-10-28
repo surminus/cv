@@ -6,8 +6,6 @@ GitHub: [surminus](https://github.com/surminus)
 
 Mail: [work@surminus.com](mailto:work@surminus.com)
 
-Twitter: [\@surminus](https://twitter.com/surminus)
-
 ## About Me
 
 I’m an experienced operations engineer with a focus on automation and tooling.
