@@ -26,9 +26,15 @@ In the future, I’d love to work on platforms with either Kubernetes or
 serverless technologies. I’m interested in expanding my horizons in terms of
 platform scale, and continuing to improve my software development skillset.
 
-## July 2021-present: Systems Development Engineer for [Amazon Web Services](https://aws.amazon.com/)
+## October 2021-present: Site Reliability Engineer for [Ably](https://ably.com/)
 
-Working in the first UK engineering team.
+Working in the dedicated Infrastructure team to help scale the global platform
+as Ably continues to grow rapidly.
+
+## July 2021-October 2021: Systems Development Engineer for [Amazon Web Services](https://aws.amazon.com/)
+
+I briefly worked at Amazon, but chose to leave because it didn't feel like the
+right fit for me.
 
 ## March 2018–June 2021: Site Reliability Engineer for [FutureLearn](https://www.futurelearn.com)
 
