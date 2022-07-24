@@ -19,16 +19,9 @@ in using automation to solve problems.
 Much of my work in the last few years has been in an AWS environment. I feel
 comfortable working within the huge Amazon ecosystem and using the AWS SDK.
 
-I have several years’ experience of Terraform, and recently spent time working
-with containers, specifically with Amazon ECS.
-
-In the future, I’d love to work on platforms with either Kubernetes or
-serverless technologies. I’m interested in expanding my horizons in terms of
-platform scale, and continuing to improve my software development skillset.
-
 ## October 2021-present: Site Reliability Engineer for [Ably](https://ably.com/)
 
-Working in the dedicated Infrastructure team to help scale the global platform
+Working in the Infrastructure team to help scale the global platform
 as Ably continues to grow rapidly.
 
 ## July 2021-October 2021: Systems Development Engineer for [Amazon Web Services](https://aws.amazon.com/)
