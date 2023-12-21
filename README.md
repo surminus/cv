@@ -12,9 +12,10 @@ I’m an experienced operations engineer with a focus on automation and tooling.
 Most of my career has been spent working with Linux systems, and I cut my teeth
 working in customer facing support.
 
-I enjoy writing tools in Ruby, Go, and occasionally Bash. I've worked with
-continuous integration (CI) and deployment systems, and have a strong interest
-in using automation to solve problems.
+I enjoy writing Go and Ruby. I have a lot of experience with continuous
+integration (CI) and deployment systems, and have a strong interest in using
+automation to solve problems. I particularly enjoy making the lives of my
+colleagues better with intuitive tools.
 
 Much of my work in the last few years has been in an AWS environment. I feel
 comfortable working within the huge Amazon ecosystem and using the AWS SDK.
